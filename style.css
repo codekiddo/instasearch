@@ -1,0 +1,8 @@
+.images.ng-enter {
+ animation: fadeIn 1s;
+
+}
+
+.images.ng-leave {
+  animation: fadeOut 1s;
+}
